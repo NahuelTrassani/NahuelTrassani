@@ -13,6 +13,7 @@ Software developer from Neuquén, Argentina. Seven years building enterprise sys
 - Going through the backend track at Coderhouse: Node, Express, MongoDB
 
 **Featured work**
+- [admServicios](https://github.com/NahuelTrassani/admServicios) — appointments and bookings backend in Node + Express + MongoDB: REST API, Mongoose models with populate, Zod validation, Handlebars views and Socket.io
 - [pyo-react](https://github.com/NahuelTrassani/pyo-react) — e-commerce SPA in React 19 + Vite + Firebase · [live demo](https://pyo-react.vercel.app)
 - [nvidia-chat](https://github.com/NahuelTrassani/nvidia-chat) — React chat client for LLM models via NVIDIA NIM
 
